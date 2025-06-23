@@ -293,7 +293,7 @@ While [REDACTED] has suspended its direct e-commerce functionality, the Magecart
 
 ### Plain English/TL;DR
 
-Even though this restaurant website suspended the processing of payments directly on the page, the attack is still dangerous. The hidden code can steal information from any form on the site - like when customers submit their email address or phone number through a contact form. It can also steal "cookies" which might contain login information. If the restaurant ever adds online payment features to their website in the future, the attackers could immediately start stealing credit card details. The attackers can also track visitors across multiple websites they've compromised in similar ways.
+Even though this restaurant website suspended the processing of payments directly on the page, the attack is still dangerous. The hidden code can steal information from any form on the site. Like when customers submit their email address or phone number through a contact form. It can also steal "cookies" which might contain login information. If the restaurant ever adds online payment features to their website in the future, the attackers could immediately start stealing credit card details. The attackers can also track visitors across multiple websites they've compromised in similar ways.
 
 ### Broader Implications
 
